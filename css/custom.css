@@ -7,3 +7,17 @@
 ul{
     padding: 20px;
 }
+
+.canto{
+    
+    position: absolute;
+    left: 270px;
+}
+
+.pairar:hover{
+    background-color: rgba(19, 195, 226, 0.4);
+}
+
+.sidenav{
+    border-right: 2px solid white;
+}
