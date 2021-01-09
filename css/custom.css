@@ -21,6 +21,12 @@ ul{
 .sidenav{
     border-right: 2px solid white;
 }
+.barra-de-menu{
+    height: 70px;
+}
+.leitor{
+    padding-top:5px;
+}
 
 .books{
     font-weight: 500;
