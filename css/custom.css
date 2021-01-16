@@ -29,6 +29,7 @@ ul{
 }
 .barra-de-menu{
     height: 70px;
+    border-bottom:1px solid rgb(182, 166, 166);
 }
 .leitor{
     padding-top:5px;
@@ -72,4 +73,14 @@ p{
     text-indent: 50px;
     margin: 15px 15px;
     color: white;
+}
+
+fieldset, .btn{
+    border-radius: 10px;
+   
+}
+
+fieldset{
+    background-color: rgb(78, 73, 73);
+    box-shadow: 10px 10px 25px rgba(111, 187, 240, 1);
 }
