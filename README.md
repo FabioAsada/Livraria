@@ -1,7 +1,7 @@
 # Livraria
- ---
+
  ## Site One Page Feito com Materialize
- ---
+
  
 - Projeto criado com a orientação do professor Fábio Souza
 - Utilizando HTML, CSS, jQuery, Materialize e WowJs
